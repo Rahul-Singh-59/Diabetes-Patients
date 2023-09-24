@@ -1,0 +1,28 @@
+📶 Insights Generated
+
+🔶 Outcome: Class Variable (0 or 1), where ‘0’ denotes the patient does not have diabetes and ‘1’ denotes the patient has diabetes.
+
+🔶 BMI(normal range): BMI of 18.5 to 25
+   (Overweight range): BMI between 25 and 30
+   (Obese range): BMI of 30 or over
+
+🔶 B.P. (High Probability of Diabetes): If B.P. > 90
+    (Moderate Probability of Diabetes): if B.P. > 60 and < 90
+    (less probability of diabetes): B.P. < 60
+
+🔶 Glucose (Normal Level): Below 140
+     (Pre-Diabetes): 140 to 199
+
+🔶 Skin Thickness: Skinfold thickness in women is 23mm. Higher thickness leads to obesity, and the chances of diabetes increase.
+
+🔶 Age Group: The age groups of 21–35 and 36–50 are most affected by diabetes.
+
+#Insights #internship #powerBi #datavisualisation #dashboard
+
+📌 Key Points:
+
+🚑 Total Patients-768
+💊 Normal Patients-500
+💉 Diabetes Patients-268
+🛑 Average B.P.-69.1
+⚗ Average Glucose-120.9
